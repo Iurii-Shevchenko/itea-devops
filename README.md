@@ -1,0 +1,2 @@
+# itea-devops
+learning DevOps 
